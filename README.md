@@ -108,21 +108,6 @@ Para mantener la reproducibilidad, cada notebook debe documentar los datos de en
 │   ├── reports/
 │   └── data/
 │
-├── F2/
-│   ├── notebooks/
-│   ├── reports/
-│   └── data/
-│
-├── F3/
-│   ├── notebooks/
-│   ├── reports/
-│   └── data/
-│
-├── F4/
-│   ├── notebooks/
-│   ├── reports/
-│   └── data/
-│
 ├── docs/
 │   ├── bibliografia/
 │   ├── minutas/

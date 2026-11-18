@@ -1,0 +1,9 @@
+﻿id,seccion,decision,motivo,resultado_intermedio
+D1,§3.2,Fijar fuente y validar hash,Reproducir los mismos bytes,891 filas; SHA-256 verificado
+D2,§3.3 / §5.1,Conservar perfiles repetidos,No hay identificador de persona,107 repeticiones adicionales conservadas
+D3,§4 / §5.1,No imputar edad,Describir observaciones disponibles,714 edades observadas; 177 ausentes
+D4,§5.1,Seleccionar 8 variables originales,Reducir redundancias y delimitar preguntas,688 nulos de deck documentados; fuente preservada
+D5,§5.1,Etiquetar puerto ausente,Conservar y visibilizar ausencia,2 registros sin puerto
+D6,§5.1,Derivar tamaño familiar y acompañamiento,Responder P4,537 registros sin familiares
+D7,§5.1,Agrupar edad con cortes explícitos,Comparación descriptiva,"4 grupos presentes, incluyendo ausencia"
+D8,§4,Conservar tarifas extremas,Regla RIC no demuestra errores,116 tarifas sobre el umbral superior

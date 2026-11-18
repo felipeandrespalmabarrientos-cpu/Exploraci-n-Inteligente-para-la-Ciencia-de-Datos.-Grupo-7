@@ -1,0 +1,16 @@
+﻿variable,descripcion,tipo_entrada,nulos,nulos_pct,valores_distintos
+survived,Supervivencia: 0 = no; 1 = sí,int64,0,0.0,2
+pclass,"Clase del pasaje: 1, 2 o 3 (ordinal)",int64,0,0.0,3
+sex,Sexo registrado: female/male,str,0,0.0,2
+age,Edad en años; puede contener fracciones y faltantes,float64,177,19.865319865319865,88
+sibsp,Número de hermanos/as y cónyuges a bordo,int64,0,0.0,7
+parch,Número de padres/madres e hijos/as a bordo,int64,0,0.0,7
+fare,Tarifa registrada; no se presume costo individual comparable,float64,0,0.0,248
+embarked,"Puerto codificado: C, Q o S",str,2,0.22446689113355783,3
+class,"Etiqueta de pclass: First, Second o Third",str,0,0.0,3
+who,"Categoría derivada: man, woman o child",str,0,0.0,3
+adult_male,Indicador derivado de hombre adulto,bool,0,0.0,2
+deck,Cubierta registrada; no equivale a cabina completa,str,688,77.21661054994388,7
+embark_town,Nombre del puerto de embarque,str,2,0.22446689113355783,3
+alive,Etiqueta de survived: yes/no,str,0,0.0,2
+alone,Indicador de ausencia de familiares registrados,bool,0,0.0,2

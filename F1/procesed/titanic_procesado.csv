@@ -1,0 +1,892 @@
+﻿id_fila_origen,survived,pclass,sex,age,sibsp,parch,fare,embarked,tamano_familiar,acompanamiento,edad_faltante,grupo_edad
+1,0,3,male,22.0,1,0,7.25,S,2,Con familiares registrados,False,18 a menos de 60
+2,1,1,female,38.0,1,0,71.2833,C,2,Con familiares registrados,False,18 a menos de 60
+3,1,3,female,26.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+4,1,1,female,35.0,1,0,53.1,S,2,Con familiares registrados,False,18 a menos de 60
+5,0,3,male,35.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+6,0,3,male,,0,0,8.4583,Q,1,Sin familiares registrados,True,Sin dato
+7,0,1,male,54.0,0,0,51.8625,S,1,Sin familiares registrados,False,18 a menos de 60
+8,0,3,male,2.0,3,1,21.075,S,5,Con familiares registrados,False,Menor de 18
+9,1,3,female,27.0,0,2,11.1333,S,3,Con familiares registrados,False,18 a menos de 60
+10,1,2,female,14.0,1,0,30.0708,C,2,Con familiares registrados,False,Menor de 18
+11,1,3,female,4.0,1,1,16.7,S,3,Con familiares registrados,False,Menor de 18
+12,1,1,female,58.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+13,0,3,male,20.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+14,0,3,male,39.0,1,5,31.275,S,7,Con familiares registrados,False,18 a menos de 60
+15,0,3,female,14.0,0,0,7.8542,S,1,Sin familiares registrados,False,Menor de 18
+16,1,2,female,55.0,0,0,16.0,S,1,Sin familiares registrados,False,18 a menos de 60
+17,0,3,male,2.0,4,1,29.125,Q,6,Con familiares registrados,False,Menor de 18
+18,1,2,male,,0,0,13.0,S,1,Sin familiares registrados,True,Sin dato
+19,0,3,female,31.0,1,0,18.0,S,2,Con familiares registrados,False,18 a menos de 60
+20,1,3,female,,0,0,7.225,C,1,Sin familiares registrados,True,Sin dato
+21,0,2,male,35.0,0,0,26.0,S,1,Sin familiares registrados,False,18 a menos de 60
+22,1,2,male,34.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+23,1,3,female,15.0,0,0,8.0292,Q,1,Sin familiares registrados,False,Menor de 18
+24,1,1,male,28.0,0,0,35.5,S,1,Sin familiares registrados,False,18 a menos de 60
+25,0,3,female,8.0,3,1,21.075,S,5,Con familiares registrados,False,Menor de 18
+26,1,3,female,38.0,1,5,31.3875,S,7,Con familiares registrados,False,18 a menos de 60
+27,0,3,male,,0,0,7.225,C,1,Sin familiares registrados,True,Sin dato
+28,0,1,male,19.0,3,2,263.0,S,6,Con familiares registrados,False,18 a menos de 60
+29,1,3,female,,0,0,7.8792,Q,1,Sin familiares registrados,True,Sin dato
+30,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+31,0,1,male,40.0,0,0,27.7208,C,1,Sin familiares registrados,False,18 a menos de 60
+32,1,1,female,,1,0,146.5208,C,2,Con familiares registrados,True,Sin dato
+33,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+34,0,2,male,66.0,0,0,10.5,S,1,Sin familiares registrados,False,60 o más
+35,0,1,male,28.0,1,0,82.1708,C,2,Con familiares registrados,False,18 a menos de 60
+36,0,1,male,42.0,1,0,52.0,S,2,Con familiares registrados,False,18 a menos de 60
+37,1,3,male,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+38,0,3,male,21.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+39,0,3,female,18.0,2,0,18.0,S,3,Con familiares registrados,False,18 a menos de 60
+40,1,3,female,14.0,1,0,11.2417,C,2,Con familiares registrados,False,Menor de 18
+41,0,3,female,40.0,1,0,9.475,S,2,Con familiares registrados,False,18 a menos de 60
+42,0,2,female,27.0,1,0,21.0,S,2,Con familiares registrados,False,18 a menos de 60
+43,0,3,male,,0,0,7.8958,C,1,Sin familiares registrados,True,Sin dato
+44,1,2,female,3.0,1,2,41.5792,C,4,Con familiares registrados,False,Menor de 18
+45,1,3,female,19.0,0,0,7.8792,Q,1,Sin familiares registrados,False,18 a menos de 60
+46,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+47,0,3,male,,1,0,15.5,Q,2,Con familiares registrados,True,Sin dato
+48,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+49,0,3,male,,2,0,21.6792,C,3,Con familiares registrados,True,Sin dato
+50,0,3,female,18.0,1,0,17.8,S,2,Con familiares registrados,False,18 a menos de 60
+51,0,3,male,7.0,4,1,39.6875,S,6,Con familiares registrados,False,Menor de 18
+52,0,3,male,21.0,0,0,7.8,S,1,Sin familiares registrados,False,18 a menos de 60
+53,1,1,female,49.0,1,0,76.7292,C,2,Con familiares registrados,False,18 a menos de 60
+54,1,2,female,29.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+55,0,1,male,65.0,0,1,61.9792,C,2,Con familiares registrados,False,60 o más
+56,1,1,male,,0,0,35.5,S,1,Sin familiares registrados,True,Sin dato
+57,1,2,female,21.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+58,0,3,male,28.5,0,0,7.2292,C,1,Sin familiares registrados,False,18 a menos de 60
+59,1,2,female,5.0,1,2,27.75,S,4,Con familiares registrados,False,Menor de 18
+60,0,3,male,11.0,5,2,46.9,S,8,Con familiares registrados,False,Menor de 18
+61,0,3,male,22.0,0,0,7.2292,C,1,Sin familiares registrados,False,18 a menos de 60
+62,1,1,female,38.0,0,0,80.0,Sin dato,1,Sin familiares registrados,False,18 a menos de 60
+63,0,1,male,45.0,1,0,83.475,S,2,Con familiares registrados,False,18 a menos de 60
+64,0,3,male,4.0,3,2,27.9,S,6,Con familiares registrados,False,Menor de 18
+65,0,1,male,,0,0,27.7208,C,1,Sin familiares registrados,True,Sin dato
+66,1,3,male,,1,1,15.2458,C,3,Con familiares registrados,True,Sin dato
+67,1,2,female,29.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+68,0,3,male,19.0,0,0,8.1583,S,1,Sin familiares registrados,False,18 a menos de 60
+69,1,3,female,17.0,4,2,7.925,S,7,Con familiares registrados,False,Menor de 18
+70,0,3,male,26.0,2,0,8.6625,S,3,Con familiares registrados,False,18 a menos de 60
+71,0,2,male,32.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+72,0,3,female,16.0,5,2,46.9,S,8,Con familiares registrados,False,Menor de 18
+73,0,2,male,21.0,0,0,73.5,S,1,Sin familiares registrados,False,18 a menos de 60
+74,0,3,male,26.0,1,0,14.4542,C,2,Con familiares registrados,False,18 a menos de 60
+75,1,3,male,32.0,0,0,56.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+76,0,3,male,25.0,0,0,7.65,S,1,Sin familiares registrados,False,18 a menos de 60
+77,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+78,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+79,1,2,male,0.83,0,2,29.0,S,3,Con familiares registrados,False,Menor de 18
+80,1,3,female,30.0,0,0,12.475,S,1,Sin familiares registrados,False,18 a menos de 60
+81,0,3,male,22.0,0,0,9.0,S,1,Sin familiares registrados,False,18 a menos de 60
+82,1,3,male,29.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+83,1,3,female,,0,0,7.7875,Q,1,Sin familiares registrados,True,Sin dato
+84,0,1,male,28.0,0,0,47.1,S,1,Sin familiares registrados,False,18 a menos de 60
+85,1,2,female,17.0,0,0,10.5,S,1,Sin familiares registrados,False,Menor de 18
+86,1,3,female,33.0,3,0,15.85,S,4,Con familiares registrados,False,18 a menos de 60
+87,0,3,male,16.0,1,3,34.375,S,5,Con familiares registrados,False,Menor de 18
+88,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+89,1,1,female,23.0,3,2,263.0,S,6,Con familiares registrados,False,18 a menos de 60
+90,0,3,male,24.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+91,0,3,male,29.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+92,0,3,male,20.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+93,0,1,male,46.0,1,0,61.175,S,2,Con familiares registrados,False,18 a menos de 60
+94,0,3,male,26.0,1,2,20.575,S,4,Con familiares registrados,False,18 a menos de 60
+95,0,3,male,59.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+96,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+97,0,1,male,71.0,0,0,34.6542,C,1,Sin familiares registrados,False,60 o más
+98,1,1,male,23.0,0,1,63.3583,C,2,Con familiares registrados,False,18 a menos de 60
+99,1,2,female,34.0,0,1,23.0,S,2,Con familiares registrados,False,18 a menos de 60
+100,0,2,male,34.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+101,0,3,female,28.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+102,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+103,0,1,male,21.0,0,1,77.2875,S,2,Con familiares registrados,False,18 a menos de 60
+104,0,3,male,33.0,0,0,8.6542,S,1,Sin familiares registrados,False,18 a menos de 60
+105,0,3,male,37.0,2,0,7.925,S,3,Con familiares registrados,False,18 a menos de 60
+106,0,3,male,28.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+107,1,3,female,21.0,0,0,7.65,S,1,Sin familiares registrados,False,18 a menos de 60
+108,1,3,male,,0,0,7.775,S,1,Sin familiares registrados,True,Sin dato
+109,0,3,male,38.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+110,1,3,female,,1,0,24.15,Q,2,Con familiares registrados,True,Sin dato
+111,0,1,male,47.0,0,0,52.0,S,1,Sin familiares registrados,False,18 a menos de 60
+112,0,3,female,14.5,1,0,14.4542,C,2,Con familiares registrados,False,Menor de 18
+113,0,3,male,22.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+114,0,3,female,20.0,1,0,9.825,S,2,Con familiares registrados,False,18 a menos de 60
+115,0,3,female,17.0,0,0,14.4583,C,1,Sin familiares registrados,False,Menor de 18
+116,0,3,male,21.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+117,0,3,male,70.5,0,0,7.75,Q,1,Sin familiares registrados,False,60 o más
+118,0,2,male,29.0,1,0,21.0,S,2,Con familiares registrados,False,18 a menos de 60
+119,0,1,male,24.0,0,1,247.5208,C,2,Con familiares registrados,False,18 a menos de 60
+120,0,3,female,2.0,4,2,31.275,S,7,Con familiares registrados,False,Menor de 18
+121,0,2,male,21.0,2,0,73.5,S,3,Con familiares registrados,False,18 a menos de 60
+122,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+123,0,2,male,32.5,1,0,30.0708,C,2,Con familiares registrados,False,18 a menos de 60
+124,1,2,female,32.5,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+125,0,1,male,54.0,0,1,77.2875,S,2,Con familiares registrados,False,18 a menos de 60
+126,1,3,male,12.0,1,0,11.2417,C,2,Con familiares registrados,False,Menor de 18
+127,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+128,1,3,male,24.0,0,0,7.1417,S,1,Sin familiares registrados,False,18 a menos de 60
+129,1,3,female,,1,1,22.3583,C,3,Con familiares registrados,True,Sin dato
+130,0,3,male,45.0,0,0,6.975,S,1,Sin familiares registrados,False,18 a menos de 60
+131,0,3,male,33.0,0,0,7.8958,C,1,Sin familiares registrados,False,18 a menos de 60
+132,0,3,male,20.0,0,0,7.05,S,1,Sin familiares registrados,False,18 a menos de 60
+133,0,3,female,47.0,1,0,14.5,S,2,Con familiares registrados,False,18 a menos de 60
+134,1,2,female,29.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+135,0,2,male,25.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+136,0,2,male,23.0,0,0,15.0458,C,1,Sin familiares registrados,False,18 a menos de 60
+137,1,1,female,19.0,0,2,26.2833,S,3,Con familiares registrados,False,18 a menos de 60
+138,0,1,male,37.0,1,0,53.1,S,2,Con familiares registrados,False,18 a menos de 60
+139,0,3,male,16.0,0,0,9.2167,S,1,Sin familiares registrados,False,Menor de 18
+140,0,1,male,24.0,0,0,79.2,C,1,Sin familiares registrados,False,18 a menos de 60
+141,0,3,female,,0,2,15.2458,C,3,Con familiares registrados,True,Sin dato
+142,1,3,female,22.0,0,0,7.75,S,1,Sin familiares registrados,False,18 a menos de 60
+143,1,3,female,24.0,1,0,15.85,S,2,Con familiares registrados,False,18 a menos de 60
+144,0,3,male,19.0,0,0,6.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+145,0,2,male,18.0,0,0,11.5,S,1,Sin familiares registrados,False,18 a menos de 60
+146,0,2,male,19.0,1,1,36.75,S,3,Con familiares registrados,False,18 a menos de 60
+147,1,3,male,27.0,0,0,7.7958,S,1,Sin familiares registrados,False,18 a menos de 60
+148,0,3,female,9.0,2,2,34.375,S,5,Con familiares registrados,False,Menor de 18
+149,0,2,male,36.5,0,2,26.0,S,3,Con familiares registrados,False,18 a menos de 60
+150,0,2,male,42.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+151,0,2,male,51.0,0,0,12.525,S,1,Sin familiares registrados,False,18 a menos de 60
+152,1,1,female,22.0,1,0,66.6,S,2,Con familiares registrados,False,18 a menos de 60
+153,0,3,male,55.5,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+154,0,3,male,40.5,0,2,14.5,S,3,Con familiares registrados,False,18 a menos de 60
+155,0,3,male,,0,0,7.3125,S,1,Sin familiares registrados,True,Sin dato
+156,0,1,male,51.0,0,1,61.3792,C,2,Con familiares registrados,False,18 a menos de 60
+157,1,3,female,16.0,0,0,7.7333,Q,1,Sin familiares registrados,False,Menor de 18
+158,0,3,male,30.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+159,0,3,male,,0,0,8.6625,S,1,Sin familiares registrados,True,Sin dato
+160,0,3,male,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+161,0,3,male,44.0,0,1,16.1,S,2,Con familiares registrados,False,18 a menos de 60
+162,1,2,female,40.0,0,0,15.75,S,1,Sin familiares registrados,False,18 a menos de 60
+163,0,3,male,26.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+164,0,3,male,17.0,0,0,8.6625,S,1,Sin familiares registrados,False,Menor de 18
+165,0,3,male,1.0,4,1,39.6875,S,6,Con familiares registrados,False,Menor de 18
+166,1,3,male,9.0,0,2,20.525,S,3,Con familiares registrados,False,Menor de 18
+167,1,1,female,,0,1,55.0,S,2,Con familiares registrados,True,Sin dato
+168,0,3,female,45.0,1,4,27.9,S,6,Con familiares registrados,False,18 a menos de 60
+169,0,1,male,,0,0,25.925,S,1,Sin familiares registrados,True,Sin dato
+170,0,3,male,28.0,0,0,56.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+171,0,1,male,61.0,0,0,33.5,S,1,Sin familiares registrados,False,60 o más
+172,0,3,male,4.0,4,1,29.125,Q,6,Con familiares registrados,False,Menor de 18
+173,1,3,female,1.0,1,1,11.1333,S,3,Con familiares registrados,False,Menor de 18
+174,0,3,male,21.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+175,0,1,male,56.0,0,0,30.6958,C,1,Sin familiares registrados,False,18 a menos de 60
+176,0,3,male,18.0,1,1,7.8542,S,3,Con familiares registrados,False,18 a menos de 60
+177,0,3,male,,3,1,25.4667,S,5,Con familiares registrados,True,Sin dato
+178,0,1,female,50.0,0,0,28.7125,C,1,Sin familiares registrados,False,18 a menos de 60
+179,0,2,male,30.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+180,0,3,male,36.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+181,0,3,female,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+182,0,2,male,,0,0,15.05,C,1,Sin familiares registrados,True,Sin dato
+183,0,3,male,9.0,4,2,31.3875,S,7,Con familiares registrados,False,Menor de 18
+184,1,2,male,1.0,2,1,39.0,S,4,Con familiares registrados,False,Menor de 18
+185,1,3,female,4.0,0,2,22.025,S,3,Con familiares registrados,False,Menor de 18
+186,0,1,male,,0,0,50.0,S,1,Sin familiares registrados,True,Sin dato
+187,1,3,female,,1,0,15.5,Q,2,Con familiares registrados,True,Sin dato
+188,1,1,male,45.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+189,0,3,male,40.0,1,1,15.5,Q,3,Con familiares registrados,False,18 a menos de 60
+190,0,3,male,36.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+191,1,2,female,32.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+192,0,2,male,19.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+193,1,3,female,19.0,1,0,7.8542,S,2,Con familiares registrados,False,18 a menos de 60
+194,1,2,male,3.0,1,1,26.0,S,3,Con familiares registrados,False,Menor de 18
+195,1,1,female,44.0,0,0,27.7208,C,1,Sin familiares registrados,False,18 a menos de 60
+196,1,1,female,58.0,0,0,146.5208,C,1,Sin familiares registrados,False,18 a menos de 60
+197,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+198,0,3,male,42.0,0,1,8.4042,S,2,Con familiares registrados,False,18 a menos de 60
+199,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+200,0,2,female,24.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+201,0,3,male,28.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+202,0,3,male,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+203,0,3,male,34.0,0,0,6.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+204,0,3,male,45.5,0,0,7.225,C,1,Sin familiares registrados,False,18 a menos de 60
+205,1,3,male,18.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+206,0,3,female,2.0,0,1,10.4625,S,2,Con familiares registrados,False,Menor de 18
+207,0,3,male,32.0,1,0,15.85,S,2,Con familiares registrados,False,18 a menos de 60
+208,1,3,male,26.0,0,0,18.7875,C,1,Sin familiares registrados,False,18 a menos de 60
+209,1,3,female,16.0,0,0,7.75,Q,1,Sin familiares registrados,False,Menor de 18
+210,1,1,male,40.0,0,0,31.0,C,1,Sin familiares registrados,False,18 a menos de 60
+211,0,3,male,24.0,0,0,7.05,S,1,Sin familiares registrados,False,18 a menos de 60
+212,1,2,female,35.0,0,0,21.0,S,1,Sin familiares registrados,False,18 a menos de 60
+213,0,3,male,22.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+214,0,2,male,30.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+215,0,3,male,,1,0,7.75,Q,2,Con familiares registrados,True,Sin dato
+216,1,1,female,31.0,1,0,113.275,C,2,Con familiares registrados,False,18 a menos de 60
+217,1,3,female,27.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+218,0,2,male,42.0,1,0,27.0,S,2,Con familiares registrados,False,18 a menos de 60
+219,1,1,female,32.0,0,0,76.2917,C,1,Sin familiares registrados,False,18 a menos de 60
+220,0,2,male,30.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+221,1,3,male,16.0,0,0,8.05,S,1,Sin familiares registrados,False,Menor de 18
+222,0,2,male,27.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+223,0,3,male,51.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+224,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+225,1,1,male,38.0,1,0,90.0,S,2,Con familiares registrados,False,18 a menos de 60
+226,0,3,male,22.0,0,0,9.35,S,1,Sin familiares registrados,False,18 a menos de 60
+227,1,2,male,19.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+228,0,3,male,20.5,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+229,0,2,male,18.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+230,0,3,female,,3,1,25.4667,S,5,Con familiares registrados,True,Sin dato
+231,1,1,female,35.0,1,0,83.475,S,2,Con familiares registrados,False,18 a menos de 60
+232,0,3,male,29.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+233,0,2,male,59.0,0,0,13.5,S,1,Sin familiares registrados,False,18 a menos de 60
+234,1,3,female,5.0,4,2,31.3875,S,7,Con familiares registrados,False,Menor de 18
+235,0,2,male,24.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+236,0,3,female,,0,0,7.55,S,1,Sin familiares registrados,True,Sin dato
+237,0,2,male,44.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+238,1,2,female,8.0,0,2,26.25,S,3,Con familiares registrados,False,Menor de 18
+239,0,2,male,19.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+240,0,2,male,33.0,0,0,12.275,S,1,Sin familiares registrados,False,18 a menos de 60
+241,0,3,female,,1,0,14.4542,C,2,Con familiares registrados,True,Sin dato
+242,1,3,female,,1,0,15.5,Q,2,Con familiares registrados,True,Sin dato
+243,0,2,male,29.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+244,0,3,male,22.0,0,0,7.125,S,1,Sin familiares registrados,False,18 a menos de 60
+245,0,3,male,30.0,0,0,7.225,C,1,Sin familiares registrados,False,18 a menos de 60
+246,0,1,male,44.0,2,0,90.0,Q,3,Con familiares registrados,False,18 a menos de 60
+247,0,3,female,25.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+248,1,2,female,24.0,0,2,14.5,S,3,Con familiares registrados,False,18 a menos de 60
+249,1,1,male,37.0,1,1,52.5542,S,3,Con familiares registrados,False,18 a menos de 60
+250,0,2,male,54.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+251,0,3,male,,0,0,7.25,S,1,Sin familiares registrados,True,Sin dato
+252,0,3,female,29.0,1,1,10.4625,S,3,Con familiares registrados,False,18 a menos de 60
+253,0,1,male,62.0,0,0,26.55,S,1,Sin familiares registrados,False,60 o más
+254,0,3,male,30.0,1,0,16.1,S,2,Con familiares registrados,False,18 a menos de 60
+255,0,3,female,41.0,0,2,20.2125,S,3,Con familiares registrados,False,18 a menos de 60
+256,1,3,female,29.0,0,2,15.2458,C,3,Con familiares registrados,False,18 a menos de 60
+257,1,1,female,,0,0,79.2,C,1,Sin familiares registrados,True,Sin dato
+258,1,1,female,30.0,0,0,86.5,S,1,Sin familiares registrados,False,18 a menos de 60
+259,1,1,female,35.0,0,0,512.3292,C,1,Sin familiares registrados,False,18 a menos de 60
+260,1,2,female,50.0,0,1,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+261,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+262,1,3,male,3.0,4,2,31.3875,S,7,Con familiares registrados,False,Menor de 18
+263,0,1,male,52.0,1,1,79.65,S,3,Con familiares registrados,False,18 a menos de 60
+264,0,1,male,40.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+265,0,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+266,0,2,male,36.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+267,0,3,male,16.0,4,1,39.6875,S,6,Con familiares registrados,False,Menor de 18
+268,1,3,male,25.0,1,0,7.775,S,2,Con familiares registrados,False,18 a menos de 60
+269,1,1,female,58.0,0,1,153.4625,S,2,Con familiares registrados,False,18 a menos de 60
+270,1,1,female,35.0,0,0,135.6333,S,1,Sin familiares registrados,False,18 a menos de 60
+271,0,1,male,,0,0,31.0,S,1,Sin familiares registrados,True,Sin dato
+272,1,3,male,25.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+273,1,2,female,41.0,0,1,19.5,S,2,Con familiares registrados,False,18 a menos de 60
+274,0,1,male,37.0,0,1,29.7,C,2,Con familiares registrados,False,18 a menos de 60
+275,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+276,1,1,female,63.0,1,0,77.9583,S,2,Con familiares registrados,False,60 o más
+277,0,3,female,45.0,0,0,7.75,S,1,Sin familiares registrados,False,18 a menos de 60
+278,0,2,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+279,0,3,male,7.0,4,1,29.125,Q,6,Con familiares registrados,False,Menor de 18
+280,1,3,female,35.0,1,1,20.25,S,3,Con familiares registrados,False,18 a menos de 60
+281,0,3,male,65.0,0,0,7.75,Q,1,Sin familiares registrados,False,60 o más
+282,0,3,male,28.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+283,0,3,male,16.0,0,0,9.5,S,1,Sin familiares registrados,False,Menor de 18
+284,1,3,male,19.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+285,0,1,male,,0,0,26.0,S,1,Sin familiares registrados,True,Sin dato
+286,0,3,male,33.0,0,0,8.6625,C,1,Sin familiares registrados,False,18 a menos de 60
+287,1,3,male,30.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+288,0,3,male,22.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+289,1,2,male,42.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+290,1,3,female,22.0,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+291,1,1,female,26.0,0,0,78.85,S,1,Sin familiares registrados,False,18 a menos de 60
+292,1,1,female,19.0,1,0,91.0792,C,2,Con familiares registrados,False,18 a menos de 60
+293,0,2,male,36.0,0,0,12.875,C,1,Sin familiares registrados,False,18 a menos de 60
+294,0,3,female,24.0,0,0,8.85,S,1,Sin familiares registrados,False,18 a menos de 60
+295,0,3,male,24.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+296,0,1,male,,0,0,27.7208,C,1,Sin familiares registrados,True,Sin dato
+297,0,3,male,23.5,0,0,7.2292,C,1,Sin familiares registrados,False,18 a menos de 60
+298,0,1,female,2.0,1,2,151.55,S,4,Con familiares registrados,False,Menor de 18
+299,1,1,male,,0,0,30.5,S,1,Sin familiares registrados,True,Sin dato
+300,1,1,female,50.0,0,1,247.5208,C,2,Con familiares registrados,False,18 a menos de 60
+301,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+302,1,3,male,,2,0,23.25,Q,3,Con familiares registrados,True,Sin dato
+303,0,3,male,19.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+304,1,2,female,,0,0,12.35,Q,1,Sin familiares registrados,True,Sin dato
+305,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+306,1,1,male,0.92,1,2,151.55,S,4,Con familiares registrados,False,Menor de 18
+307,1,1,female,,0,0,110.8833,C,1,Sin familiares registrados,True,Sin dato
+308,1,1,female,17.0,1,0,108.9,C,2,Con familiares registrados,False,Menor de 18
+309,0,2,male,30.0,1,0,24.0,C,2,Con familiares registrados,False,18 a menos de 60
+310,1,1,female,30.0,0,0,56.9292,C,1,Sin familiares registrados,False,18 a menos de 60
+311,1,1,female,24.0,0,0,83.1583,C,1,Sin familiares registrados,False,18 a menos de 60
+312,1,1,female,18.0,2,2,262.375,C,5,Con familiares registrados,False,18 a menos de 60
+313,0,2,female,26.0,1,1,26.0,S,3,Con familiares registrados,False,18 a menos de 60
+314,0,3,male,28.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+315,0,2,male,43.0,1,1,26.25,S,3,Con familiares registrados,False,18 a menos de 60
+316,1,3,female,26.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+317,1,2,female,24.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+318,0,2,male,54.0,0,0,14.0,S,1,Sin familiares registrados,False,18 a menos de 60
+319,1,1,female,31.0,0,2,164.8667,S,3,Con familiares registrados,False,18 a menos de 60
+320,1,1,female,40.0,1,1,134.5,C,3,Con familiares registrados,False,18 a menos de 60
+321,0,3,male,22.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+322,0,3,male,27.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+323,1,2,female,30.0,0,0,12.35,Q,1,Sin familiares registrados,False,18 a menos de 60
+324,1,2,female,22.0,1,1,29.0,S,3,Con familiares registrados,False,18 a menos de 60
+325,0,3,male,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+326,1,1,female,36.0,0,0,135.6333,C,1,Sin familiares registrados,False,18 a menos de 60
+327,0,3,male,61.0,0,0,6.2375,S,1,Sin familiares registrados,False,60 o más
+328,1,2,female,36.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+329,1,3,female,31.0,1,1,20.525,S,3,Con familiares registrados,False,18 a menos de 60
+330,1,1,female,16.0,0,1,57.9792,C,2,Con familiares registrados,False,Menor de 18
+331,1,3,female,,2,0,23.25,Q,3,Con familiares registrados,True,Sin dato
+332,0,1,male,45.5,0,0,28.5,S,1,Sin familiares registrados,False,18 a menos de 60
+333,0,1,male,38.0,0,1,153.4625,S,2,Con familiares registrados,False,18 a menos de 60
+334,0,3,male,16.0,2,0,18.0,S,3,Con familiares registrados,False,Menor de 18
+335,1,1,female,,1,0,133.65,S,2,Con familiares registrados,True,Sin dato
+336,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+337,0,1,male,29.0,1,0,66.6,S,2,Con familiares registrados,False,18 a menos de 60
+338,1,1,female,41.0,0,0,134.5,C,1,Sin familiares registrados,False,18 a menos de 60
+339,1,3,male,45.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+340,0,1,male,45.0,0,0,35.5,S,1,Sin familiares registrados,False,18 a menos de 60
+341,1,2,male,2.0,1,1,26.0,S,3,Con familiares registrados,False,Menor de 18
+342,1,1,female,24.0,3,2,263.0,S,6,Con familiares registrados,False,18 a menos de 60
+343,0,2,male,28.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+344,0,2,male,25.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+345,0,2,male,36.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+346,1,2,female,24.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+347,1,2,female,40.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+348,1,3,female,,1,0,16.1,S,2,Con familiares registrados,True,Sin dato
+349,1,3,male,3.0,1,1,15.9,S,3,Con familiares registrados,False,Menor de 18
+350,0,3,male,42.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+351,0,3,male,23.0,0,0,9.225,S,1,Sin familiares registrados,False,18 a menos de 60
+352,0,1,male,,0,0,35.0,S,1,Sin familiares registrados,True,Sin dato
+353,0,3,male,15.0,1,1,7.2292,C,3,Con familiares registrados,False,Menor de 18
+354,0,3,male,25.0,1,0,17.8,S,2,Con familiares registrados,False,18 a menos de 60
+355,0,3,male,,0,0,7.225,C,1,Sin familiares registrados,True,Sin dato
+356,0,3,male,28.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+357,1,1,female,22.0,0,1,55.0,S,2,Con familiares registrados,False,18 a menos de 60
+358,0,2,female,38.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+359,1,3,female,,0,0,7.8792,Q,1,Sin familiares registrados,True,Sin dato
+360,1,3,female,,0,0,7.8792,Q,1,Sin familiares registrados,True,Sin dato
+361,0,3,male,40.0,1,4,27.9,S,6,Con familiares registrados,False,18 a menos de 60
+362,0,2,male,29.0,1,0,27.7208,C,2,Con familiares registrados,False,18 a menos de 60
+363,0,3,female,45.0,0,1,14.4542,C,2,Con familiares registrados,False,18 a menos de 60
+364,0,3,male,35.0,0,0,7.05,S,1,Sin familiares registrados,False,18 a menos de 60
+365,0,3,male,,1,0,15.5,Q,2,Con familiares registrados,True,Sin dato
+366,0,3,male,30.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+367,1,1,female,60.0,1,0,75.25,C,2,Con familiares registrados,False,60 o más
+368,1,3,female,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+369,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+370,1,1,female,24.0,0,0,69.3,C,1,Sin familiares registrados,False,18 a menos de 60
+371,1,1,male,25.0,1,0,55.4417,C,2,Con familiares registrados,False,18 a menos de 60
+372,0,3,male,18.0,1,0,6.4958,S,2,Con familiares registrados,False,18 a menos de 60
+373,0,3,male,19.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+374,0,1,male,22.0,0,0,135.6333,C,1,Sin familiares registrados,False,18 a menos de 60
+375,0,3,female,3.0,3,1,21.075,S,5,Con familiares registrados,False,Menor de 18
+376,1,1,female,,1,0,82.1708,C,2,Con familiares registrados,True,Sin dato
+377,1,3,female,22.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+378,0,1,male,27.0,0,2,211.5,C,3,Con familiares registrados,False,18 a menos de 60
+379,0,3,male,20.0,0,0,4.0125,C,1,Sin familiares registrados,False,18 a menos de 60
+380,0,3,male,19.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+381,1,1,female,42.0,0,0,227.525,C,1,Sin familiares registrados,False,18 a menos de 60
+382,1,3,female,1.0,0,2,15.7417,C,3,Con familiares registrados,False,Menor de 18
+383,0,3,male,32.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+384,1,1,female,35.0,1,0,52.0,S,2,Con familiares registrados,False,18 a menos de 60
+385,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+386,0,2,male,18.0,0,0,73.5,S,1,Sin familiares registrados,False,18 a menos de 60
+387,0,3,male,1.0,5,2,46.9,S,8,Con familiares registrados,False,Menor de 18
+388,1,2,female,36.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+389,0,3,male,,0,0,7.7292,Q,1,Sin familiares registrados,True,Sin dato
+390,1,2,female,17.0,0,0,12.0,C,1,Sin familiares registrados,False,Menor de 18
+391,1,1,male,36.0,1,2,120.0,S,4,Con familiares registrados,False,18 a menos de 60
+392,1,3,male,21.0,0,0,7.7958,S,1,Sin familiares registrados,False,18 a menos de 60
+393,0,3,male,28.0,2,0,7.925,S,3,Con familiares registrados,False,18 a menos de 60
+394,1,1,female,23.0,1,0,113.275,C,2,Con familiares registrados,False,18 a menos de 60
+395,1,3,female,24.0,0,2,16.7,S,3,Con familiares registrados,False,18 a menos de 60
+396,0,3,male,22.0,0,0,7.7958,S,1,Sin familiares registrados,False,18 a menos de 60
+397,0,3,female,31.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+398,0,2,male,46.0,0,0,26.0,S,1,Sin familiares registrados,False,18 a menos de 60
+399,0,2,male,23.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+400,1,2,female,28.0,0,0,12.65,S,1,Sin familiares registrados,False,18 a menos de 60
+401,1,3,male,39.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+402,0,3,male,26.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+403,0,3,female,21.0,1,0,9.825,S,2,Con familiares registrados,False,18 a menos de 60
+404,0,3,male,28.0,1,0,15.85,S,2,Con familiares registrados,False,18 a menos de 60
+405,0,3,female,20.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+406,0,2,male,34.0,1,0,21.0,S,2,Con familiares registrados,False,18 a menos de 60
+407,0,3,male,51.0,0,0,7.75,S,1,Sin familiares registrados,False,18 a menos de 60
+408,1,2,male,3.0,1,1,18.75,S,3,Con familiares registrados,False,Menor de 18
+409,0,3,male,21.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+410,0,3,female,,3,1,25.4667,S,5,Con familiares registrados,True,Sin dato
+411,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+412,0,3,male,,0,0,6.8583,Q,1,Sin familiares registrados,True,Sin dato
+413,1,1,female,33.0,1,0,90.0,Q,2,Con familiares registrados,False,18 a menos de 60
+414,0,2,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+415,1,3,male,44.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+416,0,3,female,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+417,1,2,female,34.0,1,1,32.5,S,3,Con familiares registrados,False,18 a menos de 60
+418,1,2,female,18.0,0,2,13.0,S,3,Con familiares registrados,False,18 a menos de 60
+419,0,2,male,30.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+420,0,3,female,10.0,0,2,24.15,S,3,Con familiares registrados,False,Menor de 18
+421,0,3,male,,0,0,7.8958,C,1,Sin familiares registrados,True,Sin dato
+422,0,3,male,21.0,0,0,7.7333,Q,1,Sin familiares registrados,False,18 a menos de 60
+423,0,3,male,29.0,0,0,7.875,S,1,Sin familiares registrados,False,18 a menos de 60
+424,0,3,female,28.0,1,1,14.4,S,3,Con familiares registrados,False,18 a menos de 60
+425,0,3,male,18.0,1,1,20.2125,S,3,Con familiares registrados,False,18 a menos de 60
+426,0,3,male,,0,0,7.25,S,1,Sin familiares registrados,True,Sin dato
+427,1,2,female,28.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+428,1,2,female,19.0,0,0,26.0,S,1,Sin familiares registrados,False,18 a menos de 60
+429,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+430,1,3,male,32.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+431,1,1,male,28.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+432,1,3,female,,1,0,16.1,S,2,Con familiares registrados,True,Sin dato
+433,1,2,female,42.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+434,0,3,male,17.0,0,0,7.125,S,1,Sin familiares registrados,False,Menor de 18
+435,0,1,male,50.0,1,0,55.9,S,2,Con familiares registrados,False,18 a menos de 60
+436,1,1,female,14.0,1,2,120.0,S,4,Con familiares registrados,False,Menor de 18
+437,0,3,female,21.0,2,2,34.375,S,5,Con familiares registrados,False,18 a menos de 60
+438,1,2,female,24.0,2,3,18.75,S,6,Con familiares registrados,False,18 a menos de 60
+439,0,1,male,64.0,1,4,263.0,S,6,Con familiares registrados,False,60 o más
+440,0,2,male,31.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+441,1,2,female,45.0,1,1,26.25,S,3,Con familiares registrados,False,18 a menos de 60
+442,0,3,male,20.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+443,0,3,male,25.0,1,0,7.775,S,2,Con familiares registrados,False,18 a menos de 60
+444,1,2,female,28.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+445,1,3,male,,0,0,8.1125,S,1,Sin familiares registrados,True,Sin dato
+446,1,1,male,4.0,0,2,81.8583,S,3,Con familiares registrados,False,Menor de 18
+447,1,2,female,13.0,0,1,19.5,S,2,Con familiares registrados,False,Menor de 18
+448,1,1,male,34.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+449,1,3,female,5.0,2,1,19.2583,C,4,Con familiares registrados,False,Menor de 18
+450,1,1,male,52.0,0,0,30.5,S,1,Sin familiares registrados,False,18 a menos de 60
+451,0,2,male,36.0,1,2,27.75,S,4,Con familiares registrados,False,18 a menos de 60
+452,0,3,male,,1,0,19.9667,S,2,Con familiares registrados,True,Sin dato
+453,0,1,male,30.0,0,0,27.75,C,1,Sin familiares registrados,False,18 a menos de 60
+454,1,1,male,49.0,1,0,89.1042,C,2,Con familiares registrados,False,18 a menos de 60
+455,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+456,1,3,male,29.0,0,0,7.8958,C,1,Sin familiares registrados,False,18 a menos de 60
+457,0,1,male,65.0,0,0,26.55,S,1,Sin familiares registrados,False,60 o más
+458,1,1,female,,1,0,51.8625,S,2,Con familiares registrados,True,Sin dato
+459,1,2,female,50.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+460,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+461,1,1,male,48.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+462,0,3,male,34.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+463,0,1,male,47.0,0,0,38.5,S,1,Sin familiares registrados,False,18 a menos de 60
+464,0,2,male,48.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+465,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+466,0,3,male,38.0,0,0,7.05,S,1,Sin familiares registrados,False,18 a menos de 60
+467,0,2,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+468,0,1,male,56.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+469,0,3,male,,0,0,7.725,Q,1,Sin familiares registrados,True,Sin dato
+470,1,3,female,0.75,2,1,19.2583,C,4,Con familiares registrados,False,Menor de 18
+471,0,3,male,,0,0,7.25,S,1,Sin familiares registrados,True,Sin dato
+472,0,3,male,38.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+473,1,2,female,33.0,1,2,27.75,S,4,Con familiares registrados,False,18 a menos de 60
+474,1,2,female,23.0,0,0,13.7917,C,1,Sin familiares registrados,False,18 a menos de 60
+475,0,3,female,22.0,0,0,9.8375,S,1,Sin familiares registrados,False,18 a menos de 60
+476,0,1,male,,0,0,52.0,S,1,Sin familiares registrados,True,Sin dato
+477,0,2,male,34.0,1,0,21.0,S,2,Con familiares registrados,False,18 a menos de 60
+478,0,3,male,29.0,1,0,7.0458,S,2,Con familiares registrados,False,18 a menos de 60
+479,0,3,male,22.0,0,0,7.5208,S,1,Sin familiares registrados,False,18 a menos de 60
+480,1,3,female,2.0,0,1,12.2875,S,2,Con familiares registrados,False,Menor de 18
+481,0,3,male,9.0,5,2,46.9,S,8,Con familiares registrados,False,Menor de 18
+482,0,2,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+483,0,3,male,50.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+484,1,3,female,63.0,0,0,9.5875,S,1,Sin familiares registrados,False,60 o más
+485,1,1,male,25.0,1,0,91.0792,C,2,Con familiares registrados,False,18 a menos de 60
+486,0,3,female,,3,1,25.4667,S,5,Con familiares registrados,True,Sin dato
+487,1,1,female,35.0,1,0,90.0,S,2,Con familiares registrados,False,18 a menos de 60
+488,0,1,male,58.0,0,0,29.7,C,1,Sin familiares registrados,False,18 a menos de 60
+489,0,3,male,30.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+490,1,3,male,9.0,1,1,15.9,S,3,Con familiares registrados,False,Menor de 18
+491,0,3,male,,1,0,19.9667,S,2,Con familiares registrados,True,Sin dato
+492,0,3,male,21.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+493,0,1,male,55.0,0,0,30.5,S,1,Sin familiares registrados,False,18 a menos de 60
+494,0,1,male,71.0,0,0,49.5042,C,1,Sin familiares registrados,False,60 o más
+495,0,3,male,21.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+496,0,3,male,,0,0,14.4583,C,1,Sin familiares registrados,True,Sin dato
+497,1,1,female,54.0,1,0,78.2667,C,2,Con familiares registrados,False,18 a menos de 60
+498,0,3,male,,0,0,15.1,S,1,Sin familiares registrados,True,Sin dato
+499,0,1,female,25.0,1,2,151.55,S,4,Con familiares registrados,False,18 a menos de 60
+500,0,3,male,24.0,0,0,7.7958,S,1,Sin familiares registrados,False,18 a menos de 60
+501,0,3,male,17.0,0,0,8.6625,S,1,Sin familiares registrados,False,Menor de 18
+502,0,3,female,21.0,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+503,0,3,female,,0,0,7.6292,Q,1,Sin familiares registrados,True,Sin dato
+504,0,3,female,37.0,0,0,9.5875,S,1,Sin familiares registrados,False,18 a menos de 60
+505,1,1,female,16.0,0,0,86.5,S,1,Sin familiares registrados,False,Menor de 18
+506,0,1,male,18.0,1,0,108.9,C,2,Con familiares registrados,False,18 a menos de 60
+507,1,2,female,33.0,0,2,26.0,S,3,Con familiares registrados,False,18 a menos de 60
+508,1,1,male,,0,0,26.55,S,1,Sin familiares registrados,True,Sin dato
+509,0,3,male,28.0,0,0,22.525,S,1,Sin familiares registrados,False,18 a menos de 60
+510,1,3,male,26.0,0,0,56.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+511,1,3,male,29.0,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+512,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+513,1,1,male,36.0,0,0,26.2875,S,1,Sin familiares registrados,False,18 a menos de 60
+514,1,1,female,54.0,1,0,59.4,C,2,Con familiares registrados,False,18 a menos de 60
+515,0,3,male,24.0,0,0,7.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+516,0,1,male,47.0,0,0,34.0208,S,1,Sin familiares registrados,False,18 a menos de 60
+517,1,2,female,34.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+518,0,3,male,,0,0,24.15,Q,1,Sin familiares registrados,True,Sin dato
+519,1,2,female,36.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+520,0,3,male,32.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+521,1,1,female,30.0,0,0,93.5,S,1,Sin familiares registrados,False,18 a menos de 60
+522,0,3,male,22.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+523,0,3,male,,0,0,7.225,C,1,Sin familiares registrados,True,Sin dato
+524,1,1,female,44.0,0,1,57.9792,C,2,Con familiares registrados,False,18 a menos de 60
+525,0,3,male,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+526,0,3,male,40.5,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+527,1,2,female,50.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+528,0,1,male,,0,0,221.7792,S,1,Sin familiares registrados,True,Sin dato
+529,0,3,male,39.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+530,0,2,male,23.0,2,1,11.5,S,4,Con familiares registrados,False,18 a menos de 60
+531,1,2,female,2.0,1,1,26.0,S,3,Con familiares registrados,False,Menor de 18
+532,0,3,male,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+533,0,3,male,17.0,1,1,7.2292,C,3,Con familiares registrados,False,Menor de 18
+534,1,3,female,,0,2,22.3583,C,3,Con familiares registrados,True,Sin dato
+535,0,3,female,30.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+536,1,2,female,7.0,0,2,26.25,S,3,Con familiares registrados,False,Menor de 18
+537,0,1,male,45.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+538,1,1,female,30.0,0,0,106.425,C,1,Sin familiares registrados,False,18 a menos de 60
+539,0,3,male,,0,0,14.5,S,1,Sin familiares registrados,True,Sin dato
+540,1,1,female,22.0,0,2,49.5,C,3,Con familiares registrados,False,18 a menos de 60
+541,1,1,female,36.0,0,2,71.0,S,3,Con familiares registrados,False,18 a menos de 60
+542,0,3,female,9.0,4,2,31.275,S,7,Con familiares registrados,False,Menor de 18
+543,0,3,female,11.0,4,2,31.275,S,7,Con familiares registrados,False,Menor de 18
+544,1,2,male,32.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+545,0,1,male,50.0,1,0,106.425,C,2,Con familiares registrados,False,18 a menos de 60
+546,0,1,male,64.0,0,0,26.0,S,1,Sin familiares registrados,False,60 o más
+547,1,2,female,19.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+548,1,2,male,,0,0,13.8625,C,1,Sin familiares registrados,True,Sin dato
+549,0,3,male,33.0,1,1,20.525,S,3,Con familiares registrados,False,18 a menos de 60
+550,1,2,male,8.0,1,1,36.75,S,3,Con familiares registrados,False,Menor de 18
+551,1,1,male,17.0,0,2,110.8833,C,3,Con familiares registrados,False,Menor de 18
+552,0,2,male,27.0,0,0,26.0,S,1,Sin familiares registrados,False,18 a menos de 60
+553,0,3,male,,0,0,7.8292,Q,1,Sin familiares registrados,True,Sin dato
+554,1,3,male,22.0,0,0,7.225,C,1,Sin familiares registrados,False,18 a menos de 60
+555,1,3,female,22.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+556,0,1,male,62.0,0,0,26.55,S,1,Sin familiares registrados,False,60 o más
+557,1,1,female,48.0,1,0,39.6,C,2,Con familiares registrados,False,18 a menos de 60
+558,0,1,male,,0,0,227.525,C,1,Sin familiares registrados,True,Sin dato
+559,1,1,female,39.0,1,1,79.65,S,3,Con familiares registrados,False,18 a menos de 60
+560,1,3,female,36.0,1,0,17.4,S,2,Con familiares registrados,False,18 a menos de 60
+561,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+562,0,3,male,40.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+563,0,2,male,28.0,0,0,13.5,S,1,Sin familiares registrados,False,18 a menos de 60
+564,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+565,0,3,female,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+566,0,3,male,24.0,2,0,24.15,S,3,Con familiares registrados,False,18 a menos de 60
+567,0,3,male,19.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+568,0,3,female,29.0,0,4,21.075,S,5,Con familiares registrados,False,18 a menos de 60
+569,0,3,male,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+570,1,3,male,32.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+571,1,2,male,62.0,0,0,10.5,S,1,Sin familiares registrados,False,60 o más
+572,1,1,female,53.0,2,0,51.4792,S,3,Con familiares registrados,False,18 a menos de 60
+573,1,1,male,36.0,0,0,26.3875,S,1,Sin familiares registrados,False,18 a menos de 60
+574,1,3,female,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+575,0,3,male,16.0,0,0,8.05,S,1,Sin familiares registrados,False,Menor de 18
+576,0,3,male,19.0,0,0,14.5,S,1,Sin familiares registrados,False,18 a menos de 60
+577,1,2,female,34.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+578,1,1,female,39.0,1,0,55.9,S,2,Con familiares registrados,False,18 a menos de 60
+579,0,3,female,,1,0,14.4583,C,2,Con familiares registrados,True,Sin dato
+580,1,3,male,32.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+581,1,2,female,25.0,1,1,30.0,S,3,Con familiares registrados,False,18 a menos de 60
+582,1,1,female,39.0,1,1,110.8833,C,3,Con familiares registrados,False,18 a menos de 60
+583,0,2,male,54.0,0,0,26.0,S,1,Sin familiares registrados,False,18 a menos de 60
+584,0,1,male,36.0,0,0,40.125,C,1,Sin familiares registrados,False,18 a menos de 60
+585,0,3,male,,0,0,8.7125,C,1,Sin familiares registrados,True,Sin dato
+586,1,1,female,18.0,0,2,79.65,S,3,Con familiares registrados,False,18 a menos de 60
+587,0,2,male,47.0,0,0,15.0,S,1,Sin familiares registrados,False,18 a menos de 60
+588,1,1,male,60.0,1,1,79.2,C,3,Con familiares registrados,False,60 o más
+589,0,3,male,22.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+590,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+591,0,3,male,35.0,0,0,7.125,S,1,Sin familiares registrados,False,18 a menos de 60
+592,1,1,female,52.0,1,0,78.2667,C,2,Con familiares registrados,False,18 a menos de 60
+593,0,3,male,47.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+594,0,3,female,,0,2,7.75,Q,3,Con familiares registrados,True,Sin dato
+595,0,2,male,37.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+596,0,3,male,36.0,1,1,24.15,S,3,Con familiares registrados,False,18 a menos de 60
+597,1,2,female,,0,0,33.0,S,1,Sin familiares registrados,True,Sin dato
+598,0,3,male,49.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+599,0,3,male,,0,0,7.225,C,1,Sin familiares registrados,True,Sin dato
+600,1,1,male,49.0,1,0,56.9292,C,2,Con familiares registrados,False,18 a menos de 60
+601,1,2,female,24.0,2,1,27.0,S,4,Con familiares registrados,False,18 a menos de 60
+602,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+603,0,1,male,,0,0,42.4,S,1,Sin familiares registrados,True,Sin dato
+604,0,3,male,44.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+605,1,1,male,35.0,0,0,26.55,C,1,Sin familiares registrados,False,18 a menos de 60
+606,0,3,male,36.0,1,0,15.55,S,2,Con familiares registrados,False,18 a menos de 60
+607,0,3,male,30.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+608,1,1,male,27.0,0,0,30.5,S,1,Sin familiares registrados,False,18 a menos de 60
+609,1,2,female,22.0,1,2,41.5792,C,4,Con familiares registrados,False,18 a menos de 60
+610,1,1,female,40.0,0,0,153.4625,S,1,Sin familiares registrados,False,18 a menos de 60
+611,0,3,female,39.0,1,5,31.275,S,7,Con familiares registrados,False,18 a menos de 60
+612,0,3,male,,0,0,7.05,S,1,Sin familiares registrados,True,Sin dato
+613,1,3,female,,1,0,15.5,Q,2,Con familiares registrados,True,Sin dato
+614,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+615,0,3,male,35.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+616,1,2,female,24.0,1,2,65.0,S,4,Con familiares registrados,False,18 a menos de 60
+617,0,3,male,34.0,1,1,14.4,S,3,Con familiares registrados,False,18 a menos de 60
+618,0,3,female,26.0,1,0,16.1,S,2,Con familiares registrados,False,18 a menos de 60
+619,1,2,female,4.0,2,1,39.0,S,4,Con familiares registrados,False,Menor de 18
+620,0,2,male,26.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+621,0,3,male,27.0,1,0,14.4542,C,2,Con familiares registrados,False,18 a menos de 60
+622,1,1,male,42.0,1,0,52.5542,S,2,Con familiares registrados,False,18 a menos de 60
+623,1,3,male,20.0,1,1,15.7417,C,3,Con familiares registrados,False,18 a menos de 60
+624,0,3,male,21.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+625,0,3,male,21.0,0,0,16.1,S,1,Sin familiares registrados,False,18 a menos de 60
+626,0,1,male,61.0,0,0,32.3208,S,1,Sin familiares registrados,False,60 o más
+627,0,2,male,57.0,0,0,12.35,Q,1,Sin familiares registrados,False,18 a menos de 60
+628,1,1,female,21.0,0,0,77.9583,S,1,Sin familiares registrados,False,18 a menos de 60
+629,0,3,male,26.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+630,0,3,male,,0,0,7.7333,Q,1,Sin familiares registrados,True,Sin dato
+631,1,1,male,80.0,0,0,30.0,S,1,Sin familiares registrados,False,60 o más
+632,0,3,male,51.0,0,0,7.0542,S,1,Sin familiares registrados,False,18 a menos de 60
+633,1,1,male,32.0,0,0,30.5,C,1,Sin familiares registrados,False,18 a menos de 60
+634,0,1,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+635,0,3,female,9.0,3,2,27.9,S,6,Con familiares registrados,False,Menor de 18
+636,1,2,female,28.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+637,0,3,male,32.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+638,0,2,male,31.0,1,1,26.25,S,3,Con familiares registrados,False,18 a menos de 60
+639,0,3,female,41.0,0,5,39.6875,S,6,Con familiares registrados,False,18 a menos de 60
+640,0,3,male,,1,0,16.1,S,2,Con familiares registrados,True,Sin dato
+641,0,3,male,20.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+642,1,1,female,24.0,0,0,69.3,C,1,Sin familiares registrados,False,18 a menos de 60
+643,0,3,female,2.0,3,2,27.9,S,6,Con familiares registrados,False,Menor de 18
+644,1,3,male,,0,0,56.4958,S,1,Sin familiares registrados,True,Sin dato
+645,1,3,female,0.75,2,1,19.2583,C,4,Con familiares registrados,False,Menor de 18
+646,1,1,male,48.0,1,0,76.7292,C,2,Con familiares registrados,False,18 a menos de 60
+647,0,3,male,19.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+648,1,1,male,56.0,0,0,35.5,C,1,Sin familiares registrados,False,18 a menos de 60
+649,0,3,male,,0,0,7.55,S,1,Sin familiares registrados,True,Sin dato
+650,1,3,female,23.0,0,0,7.55,S,1,Sin familiares registrados,False,18 a menos de 60
+651,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+652,1,2,female,18.0,0,1,23.0,S,2,Con familiares registrados,False,18 a menos de 60
+653,0,3,male,21.0,0,0,8.4333,S,1,Sin familiares registrados,False,18 a menos de 60
+654,1,3,female,,0,0,7.8292,Q,1,Sin familiares registrados,True,Sin dato
+655,0,3,female,18.0,0,0,6.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+656,0,2,male,24.0,2,0,73.5,S,3,Con familiares registrados,False,18 a menos de 60
+657,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+658,0,3,female,32.0,1,1,15.5,Q,3,Con familiares registrados,False,18 a menos de 60
+659,0,2,male,23.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+660,0,1,male,58.0,0,2,113.275,C,3,Con familiares registrados,False,18 a menos de 60
+661,1,1,male,50.0,2,0,133.65,S,3,Con familiares registrados,False,18 a menos de 60
+662,0,3,male,40.0,0,0,7.225,C,1,Sin familiares registrados,False,18 a menos de 60
+663,0,1,male,47.0,0,0,25.5875,S,1,Sin familiares registrados,False,18 a menos de 60
+664,0,3,male,36.0,0,0,7.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+665,1,3,male,20.0,1,0,7.925,S,2,Con familiares registrados,False,18 a menos de 60
+666,0,2,male,32.0,2,0,73.5,S,3,Con familiares registrados,False,18 a menos de 60
+667,0,2,male,25.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+668,0,3,male,,0,0,7.775,S,1,Sin familiares registrados,True,Sin dato
+669,0,3,male,43.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+670,1,1,female,,1,0,52.0,S,2,Con familiares registrados,True,Sin dato
+671,1,2,female,40.0,1,1,39.0,S,3,Con familiares registrados,False,18 a menos de 60
+672,0,1,male,31.0,1,0,52.0,S,2,Con familiares registrados,False,18 a menos de 60
+673,0,2,male,70.0,0,0,10.5,S,1,Sin familiares registrados,False,60 o más
+674,1,2,male,31.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+675,0,2,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+676,0,3,male,18.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+677,0,3,male,24.5,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+678,1,3,female,18.0,0,0,9.8417,S,1,Sin familiares registrados,False,18 a menos de 60
+679,0,3,female,43.0,1,6,46.9,S,8,Con familiares registrados,False,18 a menos de 60
+680,1,1,male,36.0,0,1,512.3292,C,2,Con familiares registrados,False,18 a menos de 60
+681,0,3,female,,0,0,8.1375,Q,1,Sin familiares registrados,True,Sin dato
+682,1,1,male,27.0,0,0,76.7292,C,1,Sin familiares registrados,False,18 a menos de 60
+683,0,3,male,20.0,0,0,9.225,S,1,Sin familiares registrados,False,18 a menos de 60
+684,0,3,male,14.0,5,2,46.9,S,8,Con familiares registrados,False,Menor de 18
+685,0,2,male,60.0,1,1,39.0,S,3,Con familiares registrados,False,60 o más
+686,0,2,male,25.0,1,2,41.5792,C,4,Con familiares registrados,False,18 a menos de 60
+687,0,3,male,14.0,4,1,39.6875,S,6,Con familiares registrados,False,Menor de 18
+688,0,3,male,19.0,0,0,10.1708,S,1,Sin familiares registrados,False,18 a menos de 60
+689,0,3,male,18.0,0,0,7.7958,S,1,Sin familiares registrados,False,18 a menos de 60
+690,1,1,female,15.0,0,1,211.3375,S,2,Con familiares registrados,False,Menor de 18
+691,1,1,male,31.0,1,0,57.0,S,2,Con familiares registrados,False,18 a menos de 60
+692,1,3,female,4.0,0,1,13.4167,C,2,Con familiares registrados,False,Menor de 18
+693,1,3,male,,0,0,56.4958,S,1,Sin familiares registrados,True,Sin dato
+694,0,3,male,25.0,0,0,7.225,C,1,Sin familiares registrados,False,18 a menos de 60
+695,0,1,male,60.0,0,0,26.55,S,1,Sin familiares registrados,False,60 o más
+696,0,2,male,52.0,0,0,13.5,S,1,Sin familiares registrados,False,18 a menos de 60
+697,0,3,male,44.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+698,1,3,female,,0,0,7.7333,Q,1,Sin familiares registrados,True,Sin dato
+699,0,1,male,49.0,1,1,110.8833,C,3,Con familiares registrados,False,18 a menos de 60
+700,0,3,male,42.0,0,0,7.65,S,1,Sin familiares registrados,False,18 a menos de 60
+701,1,1,female,18.0,1,0,227.525,C,2,Con familiares registrados,False,18 a menos de 60
+702,1,1,male,35.0,0,0,26.2875,S,1,Sin familiares registrados,False,18 a menos de 60
+703,0,3,female,18.0,0,1,14.4542,C,2,Con familiares registrados,False,18 a menos de 60
+704,0,3,male,25.0,0,0,7.7417,Q,1,Sin familiares registrados,False,18 a menos de 60
+705,0,3,male,26.0,1,0,7.8542,S,2,Con familiares registrados,False,18 a menos de 60
+706,0,2,male,39.0,0,0,26.0,S,1,Sin familiares registrados,False,18 a menos de 60
+707,1,2,female,45.0,0,0,13.5,S,1,Sin familiares registrados,False,18 a menos de 60
+708,1,1,male,42.0,0,0,26.2875,S,1,Sin familiares registrados,False,18 a menos de 60
+709,1,1,female,22.0,0,0,151.55,S,1,Sin familiares registrados,False,18 a menos de 60
+710,1,3,male,,1,1,15.2458,C,3,Con familiares registrados,True,Sin dato
+711,1,1,female,24.0,0,0,49.5042,C,1,Sin familiares registrados,False,18 a menos de 60
+712,0,1,male,,0,0,26.55,S,1,Sin familiares registrados,True,Sin dato
+713,1,1,male,48.0,1,0,52.0,S,2,Con familiares registrados,False,18 a menos de 60
+714,0,3,male,29.0,0,0,9.4833,S,1,Sin familiares registrados,False,18 a menos de 60
+715,0,2,male,52.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+716,0,3,male,19.0,0,0,7.65,S,1,Sin familiares registrados,False,18 a menos de 60
+717,1,1,female,38.0,0,0,227.525,C,1,Sin familiares registrados,False,18 a menos de 60
+718,1,2,female,27.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+719,0,3,male,,0,0,15.5,Q,1,Sin familiares registrados,True,Sin dato
+720,0,3,male,33.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+721,1,2,female,6.0,0,1,33.0,S,2,Con familiares registrados,False,Menor de 18
+722,0,3,male,17.0,1,0,7.0542,S,2,Con familiares registrados,False,Menor de 18
+723,0,2,male,34.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+724,0,2,male,50.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+725,1,1,male,27.0,1,0,53.1,S,2,Con familiares registrados,False,18 a menos de 60
+726,0,3,male,20.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+727,1,2,female,30.0,3,0,21.0,S,4,Con familiares registrados,False,18 a menos de 60
+728,1,3,female,,0,0,7.7375,Q,1,Sin familiares registrados,True,Sin dato
+729,0,2,male,25.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+730,0,3,female,25.0,1,0,7.925,S,2,Con familiares registrados,False,18 a menos de 60
+731,1,1,female,29.0,0,0,211.3375,S,1,Sin familiares registrados,False,18 a menos de 60
+732,0,3,male,11.0,0,0,18.7875,C,1,Sin familiares registrados,False,Menor de 18
+733,0,2,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+734,0,2,male,23.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+735,0,2,male,23.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+736,0,3,male,28.5,0,0,16.1,S,1,Sin familiares registrados,False,18 a menos de 60
+737,0,3,female,48.0,1,3,34.375,S,5,Con familiares registrados,False,18 a menos de 60
+738,1,1,male,35.0,0,0,512.3292,C,1,Sin familiares registrados,False,18 a menos de 60
+739,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+740,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+741,1,1,male,,0,0,30.0,S,1,Sin familiares registrados,True,Sin dato
+742,0,1,male,36.0,1,0,78.85,S,2,Con familiares registrados,False,18 a menos de 60
+743,1,1,female,21.0,2,2,262.375,C,5,Con familiares registrados,False,18 a menos de 60
+744,0,3,male,24.0,1,0,16.1,S,2,Con familiares registrados,False,18 a menos de 60
+745,1,3,male,31.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+746,0,1,male,70.0,1,1,71.0,S,3,Con familiares registrados,False,60 o más
+747,0,3,male,16.0,1,1,20.25,S,3,Con familiares registrados,False,Menor de 18
+748,1,2,female,30.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+749,0,1,male,19.0,1,0,53.1,S,2,Con familiares registrados,False,18 a menos de 60
+750,0,3,male,31.0,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+751,1,2,female,4.0,1,1,23.0,S,3,Con familiares registrados,False,Menor de 18
+752,1,3,male,6.0,0,1,12.475,S,2,Con familiares registrados,False,Menor de 18
+753,0,3,male,33.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+754,0,3,male,23.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+755,1,2,female,48.0,1,2,65.0,S,4,Con familiares registrados,False,18 a menos de 60
+756,1,2,male,0.67,1,1,14.5,S,3,Con familiares registrados,False,Menor de 18
+757,0,3,male,28.0,0,0,7.7958,S,1,Sin familiares registrados,False,18 a menos de 60
+758,0,2,male,18.0,0,0,11.5,S,1,Sin familiares registrados,False,18 a menos de 60
+759,0,3,male,34.0,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+760,1,1,female,33.0,0,0,86.5,S,1,Sin familiares registrados,False,18 a menos de 60
+761,0,3,male,,0,0,14.5,S,1,Sin familiares registrados,True,Sin dato
+762,0,3,male,41.0,0,0,7.125,S,1,Sin familiares registrados,False,18 a menos de 60
+763,1,3,male,20.0,0,0,7.2292,C,1,Sin familiares registrados,False,18 a menos de 60
+764,1,1,female,36.0,1,2,120.0,S,4,Con familiares registrados,False,18 a menos de 60
+765,0,3,male,16.0,0,0,7.775,S,1,Sin familiares registrados,False,Menor de 18
+766,1,1,female,51.0,1,0,77.9583,S,2,Con familiares registrados,False,18 a menos de 60
+767,0,1,male,,0,0,39.6,C,1,Sin familiares registrados,True,Sin dato
+768,0,3,female,30.5,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
+769,0,3,male,,1,0,24.15,Q,2,Con familiares registrados,True,Sin dato
+770,0,3,male,32.0,0,0,8.3625,S,1,Sin familiares registrados,False,18 a menos de 60
+771,0,3,male,24.0,0,0,9.5,S,1,Sin familiares registrados,False,18 a menos de 60
+772,0,3,male,48.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+773,0,2,female,57.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+774,0,3,male,,0,0,7.225,C,1,Sin familiares registrados,True,Sin dato
+775,1,2,female,54.0,1,3,23.0,S,5,Con familiares registrados,False,18 a menos de 60
+776,0,3,male,18.0,0,0,7.75,S,1,Sin familiares registrados,False,18 a menos de 60
+777,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+778,1,3,female,5.0,0,0,12.475,S,1,Sin familiares registrados,False,Menor de 18
+779,0,3,male,,0,0,7.7375,Q,1,Sin familiares registrados,True,Sin dato
+780,1,1,female,43.0,0,1,211.3375,S,2,Con familiares registrados,False,18 a menos de 60
+781,1,3,female,13.0,0,0,7.2292,C,1,Sin familiares registrados,False,Menor de 18
+782,1,1,female,17.0,1,0,57.0,S,2,Con familiares registrados,False,Menor de 18
+783,0,1,male,29.0,0,0,30.0,S,1,Sin familiares registrados,False,18 a menos de 60
+784,0,3,male,,1,2,23.45,S,4,Con familiares registrados,True,Sin dato
+785,0,3,male,25.0,0,0,7.05,S,1,Sin familiares registrados,False,18 a menos de 60
+786,0,3,male,25.0,0,0,7.25,S,1,Sin familiares registrados,False,18 a menos de 60
+787,1,3,female,18.0,0,0,7.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+788,0,3,male,8.0,4,1,29.125,Q,6,Con familiares registrados,False,Menor de 18
+789,1,3,male,1.0,1,2,20.575,S,4,Con familiares registrados,False,Menor de 18
+790,0,1,male,46.0,0,0,79.2,C,1,Sin familiares registrados,False,18 a menos de 60
+791,0,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+792,0,2,male,16.0,0,0,26.0,S,1,Sin familiares registrados,False,Menor de 18
+793,0,3,female,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+794,0,1,male,,0,0,30.6958,C,1,Sin familiares registrados,True,Sin dato
+795,0,3,male,25.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+796,0,2,male,39.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+797,1,1,female,49.0,0,0,25.9292,S,1,Sin familiares registrados,False,18 a menos de 60
+798,1,3,female,31.0,0,0,8.6833,S,1,Sin familiares registrados,False,18 a menos de 60
+799,0,3,male,30.0,0,0,7.2292,C,1,Sin familiares registrados,False,18 a menos de 60
+800,0,3,female,30.0,1,1,24.15,S,3,Con familiares registrados,False,18 a menos de 60
+801,0,2,male,34.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+802,1,2,female,31.0,1,1,26.25,S,3,Con familiares registrados,False,18 a menos de 60
+803,1,1,male,11.0,1,2,120.0,S,4,Con familiares registrados,False,Menor de 18
+804,1,3,male,0.42,0,1,8.5167,C,2,Con familiares registrados,False,Menor de 18
+805,1,3,male,27.0,0,0,6.975,S,1,Sin familiares registrados,False,18 a menos de 60
+806,0,3,male,31.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+807,0,1,male,39.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+808,0,3,female,18.0,0,0,7.775,S,1,Sin familiares registrados,False,18 a menos de 60
+809,0,2,male,39.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+810,1,1,female,33.0,1,0,53.1,S,2,Con familiares registrados,False,18 a menos de 60
+811,0,3,male,26.0,0,0,7.8875,S,1,Sin familiares registrados,False,18 a menos de 60
+812,0,3,male,39.0,0,0,24.15,S,1,Sin familiares registrados,False,18 a menos de 60
+813,0,2,male,35.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+814,0,3,female,6.0,4,2,31.275,S,7,Con familiares registrados,False,Menor de 18
+815,0,3,male,30.5,0,0,8.05,S,1,Sin familiares registrados,False,18 a menos de 60
+816,0,1,male,,0,0,0.0,S,1,Sin familiares registrados,True,Sin dato
+817,0,3,female,23.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+818,0,2,male,31.0,1,1,37.0042,C,3,Con familiares registrados,False,18 a menos de 60
+819,0,3,male,43.0,0,0,6.45,S,1,Sin familiares registrados,False,18 a menos de 60
+820,0,3,male,10.0,3,2,27.9,S,6,Con familiares registrados,False,Menor de 18
+821,1,1,female,52.0,1,1,93.5,S,3,Con familiares registrados,False,18 a menos de 60
+822,1,3,male,27.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+823,0,1,male,38.0,0,0,0.0,S,1,Sin familiares registrados,False,18 a menos de 60
+824,1,3,female,27.0,0,1,12.475,S,2,Con familiares registrados,False,18 a menos de 60
+825,0,3,male,2.0,4,1,39.6875,S,6,Con familiares registrados,False,Menor de 18
+826,0,3,male,,0,0,6.95,Q,1,Sin familiares registrados,True,Sin dato
+827,0,3,male,,0,0,56.4958,S,1,Sin familiares registrados,True,Sin dato
+828,1,2,male,1.0,0,2,37.0042,C,3,Con familiares registrados,False,Menor de 18
+829,1,3,male,,0,0,7.75,Q,1,Sin familiares registrados,True,Sin dato
+830,1,1,female,62.0,0,0,80.0,Sin dato,1,Sin familiares registrados,False,60 o más
+831,1,3,female,15.0,1,0,14.4542,C,2,Con familiares registrados,False,Menor de 18
+832,1,2,male,0.83,1,1,18.75,S,3,Con familiares registrados,False,Menor de 18
+833,0,3,male,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+834,0,3,male,23.0,0,0,7.8542,S,1,Sin familiares registrados,False,18 a menos de 60
+835,0,3,male,18.0,0,0,8.3,S,1,Sin familiares registrados,False,18 a menos de 60
+836,1,1,female,39.0,1,1,83.1583,C,3,Con familiares registrados,False,18 a menos de 60
+837,0,3,male,21.0,0,0,8.6625,S,1,Sin familiares registrados,False,18 a menos de 60
+838,0,3,male,,0,0,8.05,S,1,Sin familiares registrados,True,Sin dato
+839,1,3,male,32.0,0,0,56.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+840,1,1,male,,0,0,29.7,C,1,Sin familiares registrados,True,Sin dato
+841,0,3,male,20.0,0,0,7.925,S,1,Sin familiares registrados,False,18 a menos de 60
+842,0,2,male,16.0,0,0,10.5,S,1,Sin familiares registrados,False,Menor de 18
+843,1,1,female,30.0,0,0,31.0,C,1,Sin familiares registrados,False,18 a menos de 60
+844,0,3,male,34.5,0,0,6.4375,C,1,Sin familiares registrados,False,18 a menos de 60
+845,0,3,male,17.0,0,0,8.6625,S,1,Sin familiares registrados,False,Menor de 18
+846,0,3,male,42.0,0,0,7.55,S,1,Sin familiares registrados,False,18 a menos de 60
+847,0,3,male,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+848,0,3,male,35.0,0,0,7.8958,C,1,Sin familiares registrados,False,18 a menos de 60
+849,0,2,male,28.0,0,1,33.0,S,2,Con familiares registrados,False,18 a menos de 60
+850,1,1,female,,1,0,89.1042,C,2,Con familiares registrados,True,Sin dato
+851,0,3,male,4.0,4,2,31.275,S,7,Con familiares registrados,False,Menor de 18
+852,0,3,male,74.0,0,0,7.775,S,1,Sin familiares registrados,False,60 o más
+853,0,3,female,9.0,1,1,15.2458,C,3,Con familiares registrados,False,Menor de 18
+854,1,1,female,16.0,0,1,39.4,S,2,Con familiares registrados,False,Menor de 18
+855,0,2,female,44.0,1,0,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+856,1,3,female,18.0,0,1,9.35,S,2,Con familiares registrados,False,18 a menos de 60
+857,1,1,female,45.0,1,1,164.8667,S,3,Con familiares registrados,False,18 a menos de 60
+858,1,1,male,51.0,0,0,26.55,S,1,Sin familiares registrados,False,18 a menos de 60
+859,1,3,female,24.0,0,3,19.2583,C,4,Con familiares registrados,False,18 a menos de 60
+860,0,3,male,,0,0,7.2292,C,1,Sin familiares registrados,True,Sin dato
+861,0,3,male,41.0,2,0,14.1083,S,3,Con familiares registrados,False,18 a menos de 60
+862,0,2,male,21.0,1,0,11.5,S,2,Con familiares registrados,False,18 a menos de 60
+863,1,1,female,48.0,0,0,25.9292,S,1,Sin familiares registrados,False,18 a menos de 60
+864,0,3,female,,8,2,69.55,S,11,Con familiares registrados,True,Sin dato
+865,0,2,male,24.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+866,1,2,female,42.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+867,1,2,female,27.0,1,0,13.8583,C,2,Con familiares registrados,False,18 a menos de 60
+868,0,1,male,31.0,0,0,50.4958,S,1,Sin familiares registrados,False,18 a menos de 60
+869,0,3,male,,0,0,9.5,S,1,Sin familiares registrados,True,Sin dato
+870,1,3,male,4.0,1,1,11.1333,S,3,Con familiares registrados,False,Menor de 18
+871,0,3,male,26.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+872,1,1,female,47.0,1,1,52.5542,S,3,Con familiares registrados,False,18 a menos de 60
+873,0,1,male,33.0,0,0,5.0,S,1,Sin familiares registrados,False,18 a menos de 60
+874,0,3,male,47.0,0,0,9.0,S,1,Sin familiares registrados,False,18 a menos de 60
+875,1,2,female,28.0,1,0,24.0,C,2,Con familiares registrados,False,18 a menos de 60
+876,1,3,female,15.0,0,0,7.225,C,1,Sin familiares registrados,False,Menor de 18
+877,0,3,male,20.0,0,0,9.8458,S,1,Sin familiares registrados,False,18 a menos de 60
+878,0,3,male,19.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+879,0,3,male,,0,0,7.8958,S,1,Sin familiares registrados,True,Sin dato
+880,1,1,female,56.0,0,1,83.1583,C,2,Con familiares registrados,False,18 a menos de 60
+881,1,2,female,25.0,0,1,26.0,S,2,Con familiares registrados,False,18 a menos de 60
+882,0,3,male,33.0,0,0,7.8958,S,1,Sin familiares registrados,False,18 a menos de 60
+883,0,3,female,22.0,0,0,10.5167,S,1,Sin familiares registrados,False,18 a menos de 60
+884,0,2,male,28.0,0,0,10.5,S,1,Sin familiares registrados,False,18 a menos de 60
+885,0,3,male,25.0,0,0,7.05,S,1,Sin familiares registrados,False,18 a menos de 60
+886,0,3,female,39.0,0,5,29.125,Q,6,Con familiares registrados,False,18 a menos de 60
+887,0,2,male,27.0,0,0,13.0,S,1,Sin familiares registrados,False,18 a menos de 60
+888,1,1,female,19.0,0,0,30.0,S,1,Sin familiares registrados,False,18 a menos de 60
+889,0,3,female,,1,2,23.45,S,4,Con familiares registrados,True,Sin dato
+890,1,1,male,26.0,0,0,30.0,C,1,Sin familiares registrados,False,18 a menos de 60
+891,0,3,male,32.0,0,0,7.75,Q,1,Sin familiares registrados,False,18 a menos de 60
