@@ -1,0 +1,12 @@
+# Entorno para ejecutar notebooks
+jupyterlab
+ipykernel
+
+# Manipulacion de datos y analisis estadistico
+numpy
+pandas
+scipy
+
+# Visualizacion
+matplotlib
+seaborn
