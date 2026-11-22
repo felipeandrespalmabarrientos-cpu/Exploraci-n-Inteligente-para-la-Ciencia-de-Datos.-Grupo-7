@@ -37,52 +37,20 @@ Estructura sugerida:
 ```text
 .
 ├── mcdi503_f1_sumativo_grupox.ipynb
-├── requirements.txt
+├── ../requirements.txt          # dependencias en la raíz
 ├── README.md
 └── .gitignore                  # recomendado
 ```
 
 El archivo de notebook del repositorio debe conservar el nombre efectivamente utilizado. El nombre mostrado es la convención sugerida para la entrega, no una dependencia del código.
 
-## 5. Requisitos previos
+## 5. Requisitos e instalación
 
-- Python 3.11 o posterior, con versiones compatibles de las dependencias.
-- Visual Studio Code con extensiones **Python** y **Jupyter**.
-- Conexión a internet para instalar paquetes y, en la primera ejecución, obtener `titanic` desde Seaborn.
-- Un archivo `requirements.txt` en la raíz del proyecto con, al menos:
+Sigue la [guía de instalación del README principal](../README.md), utilizando el [archivo de requisitos de la raíz](../requirements.txt). Allí se documentan la instalación mínima en VS Code y la alternativa opcional para el navegador.
 
-```text
-numpy
-pandas
-seaborn
-matplotlib
-ipykernel
-notebook
-```
+## 6. Selección del entorno
 
-Se recomienda fijar las versiones efectivamente utilizadas antes de la entrega definitiva para mejorar la reproducibilidad. El notebook registra las versiones de Python, pandas, Seaborn y NumPy; Matplotlib se utiliza para los gráficos.
-
-## 6. Configuración del entorno en VS Code (Windows / PowerShell)
-
-Abrir la carpeta del repositorio en VS Code y ejecutar en su terminal:
-
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip
-python -m pip install -r requirements.txt
-python -m ipykernel install --user --name mcdi503-titanic --display-name "Python (MCDI503 Titanic)"
-```
-
-Si PowerShell bloquea la activación, puede utilizarse el intérprete directamente sin modificar la política de ejecución:
-
-```powershell
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-```
-
-En VS Code, abrir el notebook y elegir **Select Kernel → Python Environments → `.venv`**, o el kernel registrado **Python (MCDI503 Titanic)**.
-
-En macOS/Linux, la activación del entorno es `source .venv/bin/activate` y el comando para crear el entorno puede ser `python3 -m venv .venv`.
+En VS Code, abre el notebook y selecciona el entorno del proyecto mediante **Select Kernel → Python Environments**. La primera carga del dataset requiere internet si todavía no está en la caché de Seaborn.
 
 ## 7. Ejecución reproducible
 

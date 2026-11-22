@@ -60,17 +60,9 @@ La documentación incluirá:
 - justificación de su elección;
 - relación con las preguntas de análisis.
 
-## 5. Reproducibilidad
+## 5. Instalación mínima (Windows / PowerShell)
 
-Los siguientes pasos permiten preparar un entorno virtual y ejecutar los notebooks del proyecto en **Windows con PowerShell**. Ejecuta los comandos desde la raíz del repositorio, una vez clonado.
-
-**Requisitos previos**
-
-- Git y Python instalados, con los comandos `git` y `py` disponibles en PowerShell.
-- El archivo [requirements.txt](./requirements.txt) con las dependencias base del proyecto: JupyterLab, IPython kernel, NumPy, pandas, SciPy, Matplotlib y seaborn.
-- Los datos de entrada indicados en el notebook de la fase correspondiente, respetando las rutas documentadas.
-
-Las dependencias iniciales no tienen versiones fijadas. Una vez validado el entorno con los notebooks, el equipo deberá registrar las versiones utilizadas y la versión de Python para reproducir el mismo entorno.
+Esta es la guía central de instalación del proyecto. Instala Git, Python (por ejemplo, Python 3.11) y VS Code con las extensiones **Python** y **Jupyter**.
 
 ### Paso 1. Clonar el repositorio
 
@@ -79,22 +71,40 @@ git clone "https://github.com/felipeandrespalmabarrientos-cpu/Exploraci-n-Inteli
 cd "Exploraci-n-Inteligente-para-la-Ciencia-de-Datos.-Grupo-7"
 ```
 
-Si ya tienes una copia local, abre PowerShell en la carpeta del proyecto y continúa con el paso 2.
+Si ya tienes una copia local, abre PowerShell en la raíz del repositorio.
 
-### Paso 2. Preparar el entorno y ejecutar JupyterLab
-
-El entorno `.venv` mantiene las dependencias del proyecto separadas de otras instalaciones de Python. Los siguientes comandos crean el entorno, instalan las dependencias de [requirements.txt](./requirements.txt) y abren JupyterLab. Utilizan directamente el intérprete del entorno, por lo que no es necesario activarlo.
+### Paso 2. Instalar las dependencias mínimas
 
 ```powershell
 py -m venv .venv
-.\.venv\Scripts\python.exe -m pip install --upgrade pip
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe -m pip install --no-cache-dir -r requirements.txt
+```
+
+No necesitas activar el entorno ni registrar un kernel global. [requirements.txt](./requirements.txt) incluye NumPy, pandas, seaborn y Matplotlib para el análisis, e ipykernel para ejecutar las celdas en VS Code. Sus dependencias internas se instalan automáticamente y también son necesarias.
+
+### Paso 3. Ejecutar el notebook
+
+Abre [el notebook de F1](./F1/mcdi503_f1_sumativo_grupox.ipynb) en VS Code. En **Select Kernel → Python Environments**, selecciona el intérprete `.venv\Scripts\python.exe` del proyecto y ejecuta **Restart Kernel and Run All Cells**.
+
+La primera carga de Titanic requiere internet si el dataset no está en la caché de Seaborn. Consulta [la documentación de F1](./F1/README.md) para conocer el análisis.
+
+### Alternativa opcional: navegador
+
+La instalación mínima no incluye el servidor de Jupyter Notebook ni JupyterLab. Si prefieres el navegador, instala JupyterLab por separado (ocupará más espacio):
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install --no-cache-dir jupyterlab
 .\.venv\Scripts\python.exe -m jupyter lab
 ```
 
-En JupyterLab, abre el notebook de la fase correspondiente. Reinicia el kernel y ejecuta todas las celdas en orden, desde la primera hasta la última, para comprobar que el análisis no depende de ejecuciones previas.
+### Mantener el entorno liviano
 
-Para mantener la reproducibilidad, cada notebook debe documentar los datos de entrada, las transformaciones realizadas y, cuando corresponda, la semilla aleatoria utilizada. Las rutas a los datos deben ser relativas al proyecto y evitar ubicaciones específicas del equipo de un integrante.
+- Instala solo las dependencias necesarias. No borres archivos internos de las bibliotecas.
+- `--no-cache-dir` evita guardar descargas en la caché de pip; no reduce el tamaño de las bibliotecas instaladas en el entorno.
+- Cambiar los requisitos no desinstala paquetes existentes. Para reducir un entorno anterior, detén sus kernels y terminales, elimina únicamente la carpeta `.venv` del proyecto y repite el paso 2. Antes, comprueba que solo contiene el entorno generado y no notebooks ni datos propios.
+- Excluye `.venv/`, `venv/`, `__pycache__/` y `.ipynb_checkpoints/` mediante las reglas de Git. Cada integrante recrea su entorno: no se entrega ni se sube al repositorio.
+
+Los requisitos tienen rangos de versiones, no versiones exactas. Antes de la entrega, ejecuta todos los notebooks y registra las versiones utilizadas y la versión de Python. Esta guía no implica que se hayan probado todas las versiones de Python.
 
 ## 6. Estructura del repositorio
 
