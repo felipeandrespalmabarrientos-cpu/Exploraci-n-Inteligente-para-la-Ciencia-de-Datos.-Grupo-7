@@ -1,5 +1,0 @@
-﻿pregunta,evidencia_notebook,hallazgo,interpretacion
-P1,§3.3,891 registros; 177 edades ausentes; 107 repeticiones adicionales conservadas.,Diagnóstico previo a cualquier imputación o eliminación.
-P2,§4,Supervivencia global: 38.38%. Mediana de edad: 28.0. Mediana de tarifa: 14.45.,Distribuciones descritas con denominadores y mediana.
-P3,§6.1,female: 74.20%; male: 18.89%. Clase 1: 62.96%; clase 3: 24.24%.,Diferencias descriptivas que no prueban causalidad.
-P4,§6.2,Menores de 18: 53.98%. Con familiares: 50.56%; sin familiares: 30.35%.,Comparaciones sujetas a composición y ausencia de edad.
