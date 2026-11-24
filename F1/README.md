@@ -1,14 +1,37 @@
 # Fase 1 — EDA reproducible: supervivencia en el Titanic
 
-## Archivos y ejecución
-El notebook `mcdi503_f1_sumativo_grupo7.ipynb` y el PDF homónimo son los entregables principales. Seguir las instrucciones de instalación del README raíz. Las preguntas P1–P5 se vinculan con las secciones del notebook y se responden en la síntesis final.
+## Entregables y ejecución
 
-## Fuente
-Dataset de ejemplo de Seaborn: https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
-Copia local `data/titanic.csv`: 891 filas y 15 columnas. El archivo local fue reconstruido desde una copia disponible de Titanic y contrastado con el CSV del repositorio de Seaborn mediante longitud y checksum FNV-1a de texto normalizado (2301464178); ambos coincidieron. El notebook registra SHA-256 del archivo local para identificar la entrada. No se requiere internet durante la ejecución.
+- [Notebook ejecutado](mcdi503_f1_sumativo_grupo7.ipynb).
+- [Informe técnico complementario](Informe_tecnico_MCDI503_Grupo7.pdf), tres páginas.
+- [CSV de respaldo](data/titanic.csv).
 
-## Decisiones y resultados
-Se conservan nulos, duplicados potenciales y extremos por falta de justificación para eliminarlos. Se crean `familia_a_bordo` y `viaja_solo`, verificando la conservación de filas y valores originales. La supervivencia general es 38,38 %; mujeres 74,20 %, hombres 18,89 %; primera clase 62,96 %, segunda 47,28 % y tercera 24,24 %. El análisis es exclusivamente descriptivo. La cobertura de edad y cubierta es incompleta y no existe identificador único.
+Seguir las instrucciones de instalación del [README principal](../README.md). El notebook es autónomo: contiene las funciones y el CSV incorporado mediante gzip/Base64, con verificación SHA-256. El archivo CSV de respaldo no es una dependencia de ejecución. Una vez instaladas las bibliotecas, no se requiere internet. Las salidas guardadas registran 10 celdas ejecutadas en Python 3.14.8 (Windows).
+
+## Datos y objetivo
+
+Fuente: [Titanic de Seaborn](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv). Unidad de observación: registro de pasajero. El conjunto contiene 891 filas y 15 variables originales. Se busca caracterizar su calidad, distribuciones y patrones descriptivos de supervivencia.
+
+## Preguntas y evidencias
+
+| Pregunta | Secciones del notebook |
+|---|---|
+| P1. Estructura y calidad | 2, 3 y 7 |
+| P2. Supervivencia general | 4 |
+| P3. Supervivencia por grupos | 5 y 6 |
+| P4. Distribuciones | 4, 5 y 7 |
+| P5. Asociaciones descriptivas | 6 |
+
+La sección 8 sintetiza las cinco respuestas y registra las decisiones metodológicas.
+
+## Decisiones y hallazgos
+
+Se conservan los nulos, las 107 filas repetidas posteriores a la primera ocurrencia y los valores potencialmente atípicos. Se incorporan dos variables familiares sobre una copia sin alterar las originales: 891 filas y 17 columnas finales. Sobreviven 342 pasajeros (38,38 %); mujeres 74,20 %, hombres 18,89 %; primera clase 62,96 %, segunda 47,28 % y tercera 24,24 %. Hay 177 edades y 688 cubiertas faltantes. No existe identificador único de pasajero; no se asume ausencia aleatoria ni representatividad, y las asociaciones no implican causalidad.
 
 ## Continuidad
-Profundizar posteriormente en faltantes, sensibilidad a extremos y análisis conjunto de variables. La referencia al apunte docente se conserva del README original; contrastar sus datos bibliográficos con el material oficial antes de entregar.
+
+Profundizar en mecanismos de ausencia, sensibilidad a extremos y asociaciones conjuntas en las siguientes fases.
+
+## Referencia docente
+
+Universidad Andrés Bello. (2026). *Semana 01. Sumativa 1: Avance proyecto Fase 1* [Guía y rúbrica de MCDI503]. Canvas.
