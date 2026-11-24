@@ -62,7 +62,7 @@ La documentación incluirá:
 
 ## 5. Instalación mínima (Windows / PowerShell)
 
-Esta es la guía central de instalación del proyecto. Instala Git, Python (por ejemplo, Python 3.11) y VS Code con las extensiones **Python** y **Jupyter**.
+Esta es la guía central de instalación del proyecto. Instala Git, Python (por ejemplo, Python 3.14) y VS Code con las extensiones **Python** y **Jupyter**.
 
 ### Paso 1. Clonar el repositorio
 
